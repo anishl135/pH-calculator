@@ -2,7 +2,7 @@
 ## Biochemistry Tool
 This Python application provides a simple GUI interface for calculating the pH of a solution based on the concentration of H+ ions in the solution. It's a handy tool for biochemistry calculations.
 
-H## ow to Use
+## How to Use
 1. Download the Zip and extract the files
 2. Run the `pH.py` script.
 3. A graphical user interface (GUI) window will open.
@@ -14,7 +14,7 @@ H## ow to Use
 Note: Ensure that you enter a valid numeric concentration for accurate pH calculation and write power in the form of e.
 
 Instead of `1 x 10^7`, write `1e7`
-## equirements
+## Requirements
 This application is built using Python and the `Tkinter` library for the GUI. You need to have Python installed on your system to run this script.
 
 ## How It Works
